@@ -20,7 +20,7 @@ I'm a Software Engineer based in London, UK. I enjoy working with backend techno
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ### 📊 GitHub Stats
-![Oğuzhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=OggyB&show_icons=true&theme=default&hide=stars&count_private=true)
+![Oggy's GitHub stats](https://github-readme-stats.vercel.app/api?username=OggyB&show_icons=true&theme=default&hide=stars&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OggyB&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📖 Latest Articles
