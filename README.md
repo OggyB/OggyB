@@ -20,7 +20,7 @@ I'm a Software Engineer based in London, UK. I enjoy working with backend techno
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ### 📖 Latest Articles
-You can read my articles on Medium: [Oggy on Medium](https://medium.com/@oggy)
+You can read my articles on Medium: (https://medium.com/@oggy)
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/oguzhanbudak)
