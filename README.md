@@ -21,7 +21,6 @@ I'm a Software Engineer based in London, UK. I enjoy working with backend techno
 
 ### 📊 GitHub Stats
 ![Oggy's GitHub stats](https://github-readme-stats.vercel.app/api?username=OggyB&show_icons=true&theme=default&hide=stars&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OggyB&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📖 Latest Articles
 You can read my articles on Medium: [Oggy](https://medium.com/@oggy)
